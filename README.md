@@ -11,3 +11,6 @@ cat >> README.md << 'EOF'
 
 ## Control de cambios
 Se realizaron modificaciones en README.md y pom.xml, y se creó observaciones.txt para practicar el uso del Working Directory y del Staging Area.
+
+## Gestión de ramas
+Se utilizó la rama feature-zevallos para desarrollar de forma independiente la clase ControlVersion_Zevallos.java, que muestra un mensaje en consola identificando al estudiante.
