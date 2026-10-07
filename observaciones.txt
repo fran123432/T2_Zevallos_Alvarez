@@ -1,0 +1,1 @@
+Observacion: archivo creado durante la Evaluación 02 de Lenguaje de Programación II para practicar Git.

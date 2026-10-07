@@ -7,3 +7,7 @@
 
 ## Evidencia T2
 Evaluación 02 - Lenguaje de Programación II - Control de versiones con Git y GitHub.
+cat >> README.md << 'EOF'
+
+## Control de cambios
+Se realizaron modificaciones en README.md y pom.xml, y se creó observaciones.txt para practicar el uso del Working Directory y del Staging Area.
